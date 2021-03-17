@@ -10,8 +10,8 @@ namespace Git1
     {
         public int AddNew(int x1, int x2) {
            
-            int sum = x1 + x2;
-            return sum;
+            
+            return x1 + x2;
 
         }
     }
