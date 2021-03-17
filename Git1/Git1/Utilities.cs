@@ -8,9 +8,8 @@ namespace Git1
 {
     class Utilities
     {
-        public int AddNew() {
-            int x1 = 1;
-            int x2 = 2;
+        public int AddNew(int x1, int x2) {
+           
             int sum = x1 + x2;
             return sum;
 
